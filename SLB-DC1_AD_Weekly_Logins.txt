@@ -1,0 +1,7 @@
+Weekly Active Directory Lockouts:
+Time: 2023-06-23 10:15:10
+Account: hwalker
+Lockout Source: MO-NEWACCT02
+----------------------
+
+Weekly Failed Logins:
